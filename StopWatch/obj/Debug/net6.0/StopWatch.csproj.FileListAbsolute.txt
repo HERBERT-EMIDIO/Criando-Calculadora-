@@ -1,0 +1,15 @@
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\bin\Debug\net6.0\StopWatch.exe
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\bin\Debug\net6.0\StopWatch.deps.json
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\bin\Debug\net6.0\StopWatch.runtimeconfig.json
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\bin\Debug\net6.0\StopWatch.dll
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\bin\Debug\net6.0\ref\StopWatch.dll
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\bin\Debug\net6.0\StopWatch.pdb
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\obj\Debug\net6.0\StopWatch.csproj.AssemblyReference.cache
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\obj\Debug\net6.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfoInputs.cache
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfo.cs
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\obj\Debug\net6.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\obj\Debug\net6.0\StopWatch.dll
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\obj\Debug\net6.0\ref\StopWatch.dll
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\obj\Debug\net6.0\StopWatch.pdb
+C:\EstudosProgramacao\C#\balta.io\fundamentos do csharp\aula06-Cronometro\StopWatch\obj\Debug\net6.0\StopWatch.genruntimeconfig.cache
